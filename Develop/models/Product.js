@@ -16,7 +16,7 @@ Product.init(
       autoIncrement: true
     },
     product_name: {
-      tpye: DataTypes.STRING,
+      type: DataTypes.STRING,
       allowNull: false,
     },
     price: {
@@ -34,7 +34,7 @@ Product.init(
     category_id: {
       type: DataTypes.INTEGER,
       references: {
-        model: 'user',
+        model: 'category',
         key: 'id'
       }
     }
