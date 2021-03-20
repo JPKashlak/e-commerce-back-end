@@ -2,14 +2,14 @@
 ## Table of Contents
 * [Description](#description)
 * [Languages](#languages)
-* [Tutroial](#tutorial)
+* [Walkthrough](#walkthrough)
 * [Screenshots](#screenshots)
 * [Questions](#questions)
 
 ## Description
-This application provides the backend support for an E-Commerce application. The applications stores data on its products, categories, and tags via MySQL and Sequelize and runs on an Express.js routes that allow users to view, add, edit, and delete entries into the database.
+This code provides the backend support for an E-Commerce web application. The application stores data on its products, categories, and tags via MySQL and Sequelize and runs on an Express.js routes that allow users to view, add, edit, and delete entries into the database.
 
-## Languages/Programs Used
+## Languages
 JavaScript, Node, Express, MySQL/Sequelize, Dotenv
 
 ## Walkthrough
